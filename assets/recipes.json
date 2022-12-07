@@ -971,6 +971,16 @@
         "imageUrl": ""
     },
     {
+        "name": "Cookies and Cream Cheesecake",
+        "ingredients": "For the Crust:\n30 Oreos, ground to a sand-like texture\n6 Tbsp Butter, melted\n½ tsp Salt\nFor the Cheesecake:\n3 cups Cream cheese, softened at room temperature\n1/2 cup Sugar\n3 Large eggs\n1 tsp Vanilla\n1 tsp Lemon juice\n12 Oreos, chopped into 1/2-inch pieces\nFor the Ganache:\n2 cups Dark chocolate chips\n1 cup Heavy cream\n2 Tbsp Coconut oil, melted\n12 Oreos, halved, for topping",
+        "directions": "Make the Crust: Line a 9-inch springform pan with baking spray and parchment paper. In a medium bowl, combine Oreo crumbs, butter and salt. Press into pan and place in the freezer while you make the cheesecake.\nMake the Cheesecake: Preheat the oven to 350F. In a large bowl, beat the cream cheese until smooth. Add sugar and mix until smooth. Add eggs one at a time. Add in vanilla and lemon juice. Fold in Oreo pieces and mix until evenly combined.\nBake for 40 to 45 minutes until the top of the cheesecake is golden and has firm wiggle. Allow the cheesecake to cool and place in the fridge for up to 4 hours.\nMake the Ganache: Place the chocolate chips in a small bowl and heat heavy cream to almost a boil. Pour cream over the chips and stir until smooth. Add coconut oil and set aside.\nAssemble the Cheesecake: Place the chilled cheesecake on a cooling rack on top of the baking pan. Pour ganache over cake to completely cover. Top with Oreo halves and serve. ",
+        "notes": "Cake will keep up to 4 days covered in the fridge.",
+        "yields": "",
+        "category": "Desserts",
+        "original_author": "Tastemade",
+        "imageUrl": "https://www.tastemade.com/_next/image?url=https%3A%2F%2Ftruffle-assets.imgix.net%2F6531895a-1841_cookiesandcreamcheesecake_land1.jpg&w=1920&q=50"
+    },
+    {
         "name": "Cookies and Cream Cheesecake Donuts",
         "ingredients": "100g crushed Oreos\nCream Cheese Filling:\n250g Cream Cheese\n200ml Sweetened condensed milk\nWhite chocolate ganache:\n200g White chocolate melts\n100ml Thickened cream",
         "directions": "To make white choc ganache simply add the chocolate and cream to a large microwave safe bowl and microwave for 20 seconds at a time, mixing each time until it becomes a smooth mixture. Cover with plastic wrap and set aside to cool.\nWhile the donuts are cooling prepare the cheesecake filling by adding the cream cheese and sugar or sweetened condensed milk to a large mixing bowl. use a wooden spoon to combine them or a hand mixer until the mixture is smooth. Transfer to a zip lock bag or piping bag.\nTo finish off the donuts simply poke a hole in the top of the donut and insert the bag with cheesecake filling in the donut. Fill with filling. Once all the donuts are filled carefully dip them in the white choc ganache.",
@@ -978,7 +988,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": "http://assets.createmycookbook.com/picture/image/0059/4719/picture.jpg20160519-24369-17vd8ep.jpg"
+        "imageUrl": "https://www.tastemade.com/_next/image?url=https%3A%2F%2Ftruffle-assets.imgix.net%2Fpxqrocxwsjcc_1bo2x7atsy8icqsmk2gym4_cookies-and-cream-cheesecake-donuts-landscape-no-graphic.jpg&w=1920&q=50"
     },
     {
         "name": "Corn Off the Cob",
@@ -1530,6 +1540,16 @@
         "category": "Dinner",
         "original_author": "Tastemade",
         "imageUrl": "https://www.plainchicken.com/wp-content/uploads/2020/03/stovetop%2Balfredo%2Bmac%2B%2526%2Bcheese-1.jpg"
+    },
+    {
+        "name": "Garlic Basil Chicken with Tomato Butter Sauce",
+        "ingredients": "2 Chicken breasts\n2 tsp Salt\n2 tsp Pepper\n2 Tbsp Olive oil\n2 Garlic cloves, minced\n1 Shallot, minced\n1 (28 oz.) can Tomatoes, diced\n1 cup Heavy cream\n1/2 cup Parmesan cheese, grated\n1/4 cup Basil, minced\n1/4 cup Parsley, minced\n1 Tbsp Oregano, minced\n1 Tbsp Chili flakes\n1 Tbsp Butter",
+        "directions": "Season both sides of the chicken breasts with salt and pepper. Heat 1 Tbsp olive oil in a large skillet over medium high heat. Cook chicken until cooked through and golden brown on both sides. Remove chicken from pan and set aside.\nIn the same pan, saute garlic and shallot until soft with remaining olive oil, about 4 minutes.\nAdd diced tomatoes, cream, and parmesan cheese. Simmer until mixture begins to thicken.\nStir in herbs, chili flakes and finish with butter. Return chicken back to pan and spoon with sauce. Serve over pasta.",
+        "notes": "",
+        "yields": "",
+        "category": "Dinner",
+        "original_author": "Tastemade",
+        "imageUrl": "https://www.tastemade.com/_next/image?url=https%3A%2F%2Ftruffle-assets.imgix.net%2F94740fe5-1823_garlicbasilchicken_land2.jpg&w=1920&q=50"
     },
     {
         "name": "Garlic Edamame",
